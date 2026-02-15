@@ -1,0 +1,18 @@
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.LoginForm.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.Dashboard.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.PatientList.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.AdmitPatient.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.DischargePatient.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.DoctorAdd.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.RoomManagement.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.BillingForm.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.DoctorList.resources
+D:\Huzaira Data\semester 3\Database\lab\Hospittal managemnet system\hms\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Forms.PatientAdd.resources
